@@ -33,4 +33,7 @@ for i in b:
                     for c in a:
                         if c == i:
                             a.remove(i)
+
 print('A: ', a)
+print(a)
+
